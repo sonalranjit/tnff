@@ -5,7 +5,15 @@ class Contact extends Component {
         return (
             <div>
                 <h2>GOT QUESTIONS?</h2>
-                <p> The easiest thing to do is post on</p>
+                <br/>
+                <p>Any inquiries regarding the submission please send your email to
+                    <a href="mailto:programming@tnff.ca?Subject=TNFF2018 Submission" target="_top"> programming@tnff.ca</a>
+                </p>
+                <br/>
+                <p>
+                    For any other general inquires please send your email to <a href="mailto:info@tnff.ca?Subject=Hello" target="_top">info@tnff.ca</a>
+                </p>
+                
             </div>
         );
     }
