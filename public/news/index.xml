@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Toronto Nepali Film Festival</title>
+    <link>https://tnff.ca/news/</link>
+    <description>Recent content in News on Toronto Nepali Film Festival</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Feb 2018 15:05:56 -0500</lastBuildDate>
+    
+	<atom:link href="https://tnff.ca/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Submissions for TNFF 2018 are open</title>
+      <link>https://tnff.ca/news/call-for-submissions-2018/</link>
+      <pubDate>Sat, 24 Feb 2018 15:05:56 -0500</pubDate>
+      
+      <guid>https://tnff.ca/news/call-for-submissions-2018/</guid>
+      <description>For information in Nepal please contact:
+Sangam Pulami Magar
+pulamisangam@gmail.com
+For information in Canada or outside of Nepal please contact:
+Marygold Bhandari
+executivedirector@tnff.ca
+Entries are now being accepted for the 9th Annual Toronto Nepali Film Festival to be held on May 19th, 2018.
+Films will be selected based on merit and the content of the films. The jury will consider relevant Nepali narratives, methods of storytelling, new genres in the context of Nepali filmmaking, technical finesse, and other attributes of filmmaking in the selection process.</description>
+    </item>
+    
+  </channel>
+</rss>
