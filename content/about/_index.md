@@ -1,7 +1,7 @@
 ---
 title: About
 about: About Us
-featured_image: 'images/toronto-skyline.jpeg'
+featured_image: 'images/toronto-skyline.jpg'
 ---
 
 Toronto Nepali Film Festival (TNFF) is a non-profit organization based in Toronto, Canada.

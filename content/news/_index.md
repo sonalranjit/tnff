@@ -1,5 +1,5 @@
 ---
 title: "News"
-featured_image: 'images/toronto-skyline.jpeg'
+featured_image: 'images/toronto-skyline.jpg'
 description: ""
 ---

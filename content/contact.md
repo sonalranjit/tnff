@@ -2,7 +2,7 @@
 title: Contact
 description: We'd love to hear from you
 type: page
-featured_image: 'images/toronto-skyline.jpeg'
+featured_image: 'images/toronto-skyline.jpg'
 menu:
   main: {}
 
