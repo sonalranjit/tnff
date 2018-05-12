@@ -1,7 +1,7 @@
 ---
-title: "TNFF 2018"
-featured_image: 'images/toronto-skyline.jpg'
-description: "The 9th Annual Toronto Film Festival"
+title: "Tnff 2018 Schedule"
+date: 2018-05-12T15:30:19-04:00
+draft: true
 ---
 
 ## Ticket Details
