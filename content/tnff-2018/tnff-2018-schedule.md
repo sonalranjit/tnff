@@ -22,7 +22,7 @@ draft: false
 
 4:46 __Ananta Yatra__ (15 mins) by Sunil Pandey
 
-5:01 __Gay__ (5 mins) by Pratish Shrestha
+5:01 __Gya__ (5 mins) by Pratish Shrestha
 
 5:06 __Jaalgedi__ (15 mins) by Rajesh Prasad Khatri
 
