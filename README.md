@@ -2,6 +2,11 @@
 
 This is the tnff website, it is built using hugo.
 
+## New content
+```shell
+hugo new post/new-post.md
+```
+
 ## To start Dev server locally
 
 ```shell
