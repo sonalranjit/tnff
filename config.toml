@@ -1,5 +1,5 @@
 title = "Toronto Nepali Film Festival"
-baseURL = "http://tnff.ca/"
+baseURL = "https://tnff.ca/"
 languageCode = "en-us"
 theme = "ananke"
 
