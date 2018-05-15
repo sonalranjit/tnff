@@ -19,3 +19,5 @@ This documentary deals with the stories of children living in Edith Wilkins (NGO
 **Director's Bio:**
 
 Wangyal Sherpa is a Mass Communication and Journalism graduate from Darjeeling District of West Bengal. He has been working on video production since 2008. He has few short films and documentaries in his portfolio. He has worked as an editor for the documentary, “Voices of Teesta”, which was screened during “Woodpecker International Film Festival” in 2016.
+
+![](/images/finding-life-in-monochrome.png)

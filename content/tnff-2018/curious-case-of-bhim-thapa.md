@@ -14,11 +14,6 @@ draft: false
 
 This documentary centers on a man, a myth and his legacy and works both as a biopic and as a timelessly relevant piece of social commentary. Mr. Bhim Thapa has dedicated his life on the idea that people need to be awakened to bring changes in their lives. He held this idea for a lifetime, painting & inscribing the word “khoja” on pavement, walls, and stones all over Nepal. Although he is 96 years old, he is still traveling and writing. It is believed that he has written/inscribed “Khoja” over 8 million times.
 
-
-## Previous Screenings and Awards:
-
-N/A
-
 ---
 
 **Director's Bio:**
