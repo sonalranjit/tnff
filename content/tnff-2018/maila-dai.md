@@ -4,6 +4,8 @@ date: 2018-05-14T21:15:42-04:00
 draft: false
 ---
 
+![](/images/maila-dai.png)
+
 **Nepal | 2017 | Documentary | 6 mins | Nepali with English subtitles**
 
 **Director:** Rajeela Shrestha, email: rajeelashrestha@gmail.com
@@ -29,5 +31,3 @@ Maila Dai is a documentary about Maila Lama, who is considered a hero. This docu
 **Director's Bio:**
 
 Rajeela Shrestha was born in Kathmandu in 1996. Ms. Shrestha is a freelance filmmaker and a writer. She is actively involved in film making since 2014 and has completed her bachelor’s degree in film, script writing and direction. She believes that visual storytelling is the powerful medium to make people understand the complexities of the world a bit better.
-
-![](/images/maila-dai.png)

@@ -4,6 +4,8 @@ date: 2018-05-14T21:43:16-04:00
 draft: false
 ---
 
+![](/images/kalo-pothi.jpeg)
+
 [**Trailer**](https://www.youtube.com/watch?v=ffrIqBM_EHM)
 
 **Nepal | 2015 | Fiction | 90 mins | Khash with English subtitles**
@@ -37,5 +39,3 @@ Official Selection in more than 65 Film Festival around the world including Busa
 **Director's Bio:**
 
 An award-winning filmmaker from Nepal, Min Bahadur Bham graduated in Filmmaking and Literature. He has a Masters degree in Buddhist Philosophy and Political Science. His short film The Flute (2012) was the first Nepalese film presented at the Venice Film Festival in competition. His directorial debut The Black Hen (2015) is the first feature film of Nepal presented in Venice Critics Week and awarded with FEDEORA Best Film. This film was a huge box office success in Nepal and also an official entry from Nepal to Oscar for the category of Best Foreign Language Film 2016. He owns his production company, Shooney Films, where he has produced several short and feature films. The films have been screened at various film festivals around the world including, Venice, Berlinale, Busan, San Sebastian, Locarno, Tokyo, Seattle, and Montreal World. Currently, he is developing his second feature film, A Year of Cold at Cinéfondation Résidence, du Festival de Cannes.
-
-![](/images/kalo-pothi.jpeg)

@@ -4,6 +4,8 @@ date: 2018-05-14T21:33:27-04:00
 draft: false
 ---
 
+![](/images/jaalgedi.jpg)
+
 [**Trailer**](https://www.youtube.com/watch?v=oKHnB5w1zYE)
 
 **Nepal | 2017 | Short |15 mins | Nepali with English subtitles**
@@ -27,5 +29,3 @@ Jaalgedi takes her family's animals, like any other day, to pastures outside her
 **Director's Bio:**
 
 Rajesh Prasad Khatri was born in Nepal on 1985, is a graduate of Literature and currently a primary school teacher in remote western mountains of Nepal. He has been active has a theatre actor and director since last 10 years. He has also worked as a production manager in a number of films, including The Black Hen (2015). Jalgedi is his debut short film, which was premiered at Busan International Film Festival as well as Berlinale Generation Kplus Competition.
-
-![](/images/jaalgedi.jpg)

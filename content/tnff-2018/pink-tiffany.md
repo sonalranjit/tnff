@@ -4,6 +4,8 @@ date: 2018-05-14T20:56:30-04:00
 draft: false
 ---
 
+![](/images/pink-tiffany.jpeg)
+
 [**Trailer**](http://www.shaktipictures.com/pinktiffany/)
 
 **Nepal | 2017 | Documentary | 44 mins | Nepali with English subtitles**
@@ -28,5 +30,3 @@ While Nepal may be a beacon of progress, legally recognizing an “other” gend
 **Director's Bio:**
 
 Sophie is a British American film director and a documentary cinematographer who has made films in the Antarctic, at the North Pole and in the Himalayas. Films include “The Horses of the Last Forbidden Kingdom” shot in Mustang, and “Daughters of the Curved Moon” shot in Jumla. “Pink Tiffany” is the third film produced by the Shakti Pictures team in Nepal. 
-
-![](/images/pink-tiffany.jpeg)

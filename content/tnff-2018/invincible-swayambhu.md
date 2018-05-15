@@ -4,6 +4,8 @@ date: 2018-05-14T21:41:22-04:00
 draft: false
 ---
 
+![](/images/invincible-swayambhu.png)
+
 **Nepal | 2017 | Documentary | 7 mins | Nepali with English subtitles**
 
 **Director:** Baburam Raut, email: rautronish@gmail.com
@@ -26,4 +28,3 @@ Selected in the **Fifth International Festival of Short Films on Culture & Touri
 
 Baburam Raut is a student studying filmmaking in Kantipur Film Academy.
 
-![](/images/invincible-swayambhu.png)

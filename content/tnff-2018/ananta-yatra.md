@@ -4,6 +4,8 @@ date: 2018-05-14T21:24:58-04:00
 draft: false
 ---
 
+![](/images/ananta-yatra.png)
+
 **Nepal | 2016 | Short | 15 mins | Nepali with English Subtitles**
 
 **Director:** Sunil Pandey, email: sunil204947@gmail.com
@@ -20,4 +22,3 @@ This film is a chronicle about the  journey of an elderly woman who suddenly pas
 
 Sunil Pandey graduated from Oscar Int. College in Nepal. He specialized in the field of Direction. Ananta Yatra is his final graduation film.
 
-![](/images/ananta-yatra.png)
