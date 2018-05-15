@@ -28,4 +28,4 @@ A rough cut was shown at the Seattle South Asian Film Festival also in 2017
 
 In 2005, Amy left her career as a middle school teacher to become a documentary filmmaker. Her first feature documentary, Drawing the Tiger, is a granted project of the Sundance Institute. It premiered at Hot Docs in April 2015 and has since screened in over 50 film festivals worldwide and won numerous awards. The Eldest Son is her second film in an anthology about the Darnal family.
 
-![](/images/bhim-thapa.png)
+![](/images/eldest-son.png)

@@ -8,7 +8,7 @@ draft: false
 
 **Director:** Wangyal Sherpa, email: iamwangyal@gmail.com
 
-**Producers:** Wangyal Sherp and  Anup Aadin Das
+**Producers:** Wangyal Sherpa and  Anup Aadin Das
 
 ## Synopsis:
 
