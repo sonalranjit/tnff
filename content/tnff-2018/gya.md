@@ -1,7 +1,7 @@
 ---
 title: "Gya"
 date: 2018-05-14T21:29:20-04:00
-draft: true
+draft: false
 ---
 
 **Nepal | 2017 | Short | 5 mins | Nepali with English subtitles**

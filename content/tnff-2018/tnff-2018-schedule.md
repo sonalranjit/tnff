@@ -1,44 +1,44 @@
 ---
 title: "TNFF 2018 Schedule"
 date: 2018-05-12T15:30:19-04:00
-draft: true
+draft: false
 ---
 
 ## Session A (1:30 PM - 3:30 PM)
 
-1:45 [__Pink Tiffany__]({{<ref "tnff-2018/pink-tiffany" >}}) (44 mins) by Sophie Dia Pegrum
+1:45 [__Pink Tiffany__]({{<ref "tnff-2018/pink-tiffany.md" >}}) (44 mins) by Sophie Dia Pegrum
 
-2:30 [__The Curious Case of Mr. Bhim Thapa__]({{<ref "tnff-2018/curious-case-of-bhim-thapa" >}}) (14 mins) by Bhakta Chand
+2:30 [__The Curious Case of Mr. Bhim Thapa__]({{<ref "tnff-2018/curious-case-of-bhim-thapa.md" >}}) (14 mins) by Bhakta Chand
 
-2:45 [__The Eldest Son__]({{<ref "tnff-2018/the-eldest-son" >}}) (30 mins) by Amy Benson
+2:45 [__The Eldest Son__]({{<ref "tnff-2018/the-eldest-son.md" >}}) (30 mins) by Amy Benson
 
-3:15 [__Maila Dai - A Man Who Rebuilt a Village__]({{<ref "tnff-2018/maila-dai" >}}) (6 mins) by Rajeela Shrestha
+3:15 [__Maila Dai - A Man Who Rebuilt a Village__]({{<ref "tnff-2018/maila-dai.md" >}}) (6 mins) by Rajeela Shrestha
 
 ---
 
 ## Session B (4:00 PM - 5:45 PM)
 
-4:30 [__Lachhamaniya__]({{<ref "tnff-2018/lachhamaniya" >}}) (16 mins) by Bikas Neupane
+4:30 [__Lachhamaniya__]({{<ref "tnff-2018/lachhamaniya.md" >}}) (16 mins) by Bikas Neupane
 
-4:46 [__Ananta Yatra__]({{<ref "tnff-2018/ananta-yatra" >}}) (15 mins) by Sunil Pandey
+4:46 [__Ananta Yatra__]({{<ref "tnff-2018/ananta-yatra.md" >}}) (15 mins) by Sunil Pandey
 
-5:01 [__Gya__]({{<ref "tnff-2018/gya" >}}) (5 mins) by Pratish Shrestha
+5:01 [__Gya__]({{<ref "tnff-2018/gya.md" >}}) (5 mins) by Pratish Shrestha
 
-5:06 [__Jaalgedi__]({{<ref "tnff-2018/jaalgedi" >}}) (15 mins) by Rajesh Prasad Khatri
+5:06 [__Jaalgedi__]({{<ref "tnff-2018/jaalgedi.md" >}}) (15 mins) by Rajesh Prasad Khatri
 
-5:21 [__Nirvana__]({{<ref "tnff-2018/nirvana" >}}) (3 mins) by Anup Giri
+5:21 [__Nirvana__]({{<ref "tnff-2018/nirvana.md" >}}) (3 mins) by Anup Giri
 
-5:24 [__Jhajalko__]({{<ref "tnff-2018/jhajalko" >}}) (18 mins) by Wangyal Sherpa
+5:24 [__Jhajalko__]({{<ref "tnff-2018/jhajalko.md" >}}) (18 mins) by Wangyal Sherpa
 
-5:42 [__Finding Life in Monochrome__]({{<ref "tnff-2018/finding-life-in-monochrome" >}}) (10 mins) by Wangyal Sherpa
+5:42 [__Finding Life in Monochrome__]({{<ref "tnff-2018/finding-life-in-monochrome.md" >}}) (10 mins) by Wangyal Sherpa
 
-5:52 [__Invincible Swayambhu__]({{<ref "tnff-2018/invincible-swayambhu">}}) (7 mins) by Baburam Raut
+5:52 [__Invincible Swayambhu__]({{<ref "tnff-2018/invincible-swayambhu.md">}}) (7 mins) by Baburam Raut
 
 ---
 
 ## Session C (6:30 PM - 8:30 PM)
 
-7:00 [__Kalo Pothi (The Black Hen)__]({{<ref "tnff-2018/kalo-pothi" >}}) (90 mins) by Min Bahadur Bham
+7:00 [__Kalo Pothi (The Black Hen)__]({{<ref "tnff-2018/kalo-pothi.md" >}}) (90 mins) by Min Bahadur Bham
 
 8:30 Closing Remarks
 

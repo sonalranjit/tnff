@@ -3,6 +3,104 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tnff.ca/tnff-2018/kalo-pothi/</loc>
+    <lastmod>2018-05-14T21:43:16-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://tnff.ca/tnff-2018/invincible-swayambhu/</loc>
+    <lastmod>2018-05-14T21:41:22-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://tnff.ca/tnff-2018/finding-life-in-monochrome/</loc>
+    <lastmod>2018-05-14T21:39:39-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://tnff.ca/tnff-2018/jhajalko/</loc>
+    <lastmod>2018-05-14T21:38:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://tnff.ca/tnff-2018/nirvana/</loc>
+    <lastmod>2018-05-14T21:36:39-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://tnff.ca/tnff-2018/jaalgedi/</loc>
+    <lastmod>2018-05-14T21:33:27-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://tnff.ca/tnff-2018/gya/</loc>
+    <lastmod>2018-05-14T21:29:20-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://tnff.ca/tnff-2018/ananta-yatra/</loc>
+    <lastmod>2018-05-14T21:24:58-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://tnff.ca/tnff-2018/lachhamaniya/</loc>
+    <lastmod>2018-05-14T21:21:22-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://tnff.ca/tnff-2018/maila-dai/</loc>
+    <lastmod>2018-05-14T21:15:42-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://tnff.ca/tnff-2018/the-eldest-son/</loc>
+    <lastmod>2018-05-14T21:05:42-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://tnff.ca/tnff-2018/curious-case-of-bhim-thapa/</loc>
+    <lastmod>2018-05-14T21:01:42-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://tnff.ca/tnff-2018/pink-tiffany/</loc>
+    <lastmod>2018-05-14T20:56:30-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://tnff.ca/tnff-2018/tnff-2018-schedule/</loc>
+    <lastmod>2018-05-12T15:30:19-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://tnff.ca/news/call-for-submissions-2018/</loc>
     <lastmod>2018-02-24T15:05:56-05:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -36,6 +134,7 @@
   
   <url>
     <loc>http://tnff.ca/tnff-2018/</loc>
+    <lastmod>2018-05-14T21:43:16-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -48,7 +147,7 @@
   
   <url>
     <loc>http://tnff.ca/</loc>
-    <lastmod>2018-02-24T15:05:56-05:00</lastmod>
+    <lastmod>2018-05-14T21:43:16-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

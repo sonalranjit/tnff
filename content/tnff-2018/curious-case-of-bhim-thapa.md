@@ -1,7 +1,7 @@
 ---
 title: "Curious Case of Bhim Thapa"
 date: 2018-05-14T21:01:42-04:00
-draft: true
+draft: false
 ---
 
 **Nepal | 2015 | Documentary | 14 mins | Nepali with English subtitles**

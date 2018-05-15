@@ -1,7 +1,7 @@
 ---
 title: "Nirvana"
 date: 2018-05-14T21:36:39-04:00
-draft: true
+draft: false
 ---
 
 **United States | 2017 | Short | 3 mins | No dialogues**

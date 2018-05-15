@@ -1,7 +1,7 @@
 ---
 title: "Kalo Pothi"
 date: 2018-05-14T21:43:16-04:00
-draft: true
+draft: false
 ---
 
 [**Trailer**](https://www.youtube.com/watch?v=ffrIqBM_EHM)

@@ -1,7 +1,7 @@
 ---
 title: "Finding Life in Monochrome"
 date: 2018-05-14T21:39:39-04:00
-draft: true
+draft: false
 ---
 
 **Darjeeling | 2017 | Documentary | 10 mins | Nepali and Hindi with English subtitles**

@@ -1,7 +1,7 @@
 ---
 title: "Maila Dai"
 date: 2018-05-14T21:15:42-04:00
-draft: true
+draft: false
 ---
 
 **Nepal | 2017 | Documentary | 6 mins | Nepali with English subtitles**

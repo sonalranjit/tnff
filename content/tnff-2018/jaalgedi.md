@@ -1,7 +1,7 @@
 ---
 title: "Jaalgedi"
 date: 2018-05-14T21:33:27-04:00
-draft: true
+draft: false
 ---
 
 [**Trailer**](https://www.youtube.com/watch?v=oKHnB5w1zYE)

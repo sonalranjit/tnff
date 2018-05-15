@@ -1,7 +1,7 @@
 ---
 title: "Lachhamaniya"
 date: 2018-05-14T21:21:22-04:00
-draft: true
+draft: false
 ---
 
 **Nepal | 2017 | Short | 16 mins | Aawadhi with English subtitles**

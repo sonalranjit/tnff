@@ -1,7 +1,7 @@
 ---
 title: "Invincible Swayambhu"
 date: 2018-05-14T21:41:22-04:00
-draft: true
+draft: false
 ---
 
 **Nepal | 2017 | Documentary | 7 mins | Nepali with English subtitles**

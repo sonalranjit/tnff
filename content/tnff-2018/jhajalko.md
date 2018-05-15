@@ -1,7 +1,7 @@
 ---
 title: "Jhajalko"
 date: 2018-05-14T21:38:05-04:00
-draft: true
+draft: false
 ---
 
 **Darjeeling | 2017 | Fiction | 18 mins | Nepali with English subtitles**
