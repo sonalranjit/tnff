@@ -6,6 +6,13 @@ draft: false
 
 # Saturday May 19th, 2018
 
+Innis Town Hall
+2 Sussex Ave
+Toronto, ON M5S 1J5
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2886.1643049517584!2d-79.40173958450185!3d43.66555257912088!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b34bc2eba0b15%3A0x65cf36faca1097c8!2sInnis+Town+Hall!5e0!3m2!1sen!2sca!4v1526385035855" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
 ## Session A (1:30 PM - 3:30 PM)
 
 1:45 [__Pink Tiffany__]({{<ref "tnff-2018/pink-tiffany.md" >}}) (44 mins) by Sophie Dia Pegrum
