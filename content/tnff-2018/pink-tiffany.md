@@ -30,3 +30,5 @@ While Nepal may be a beacon of progress, legally recognizing an “other” gend
 **Director's Bio:**
 
 Sophie is a British American film director and a documentary cinematographer who has made films in the Antarctic, at the North Pole and in the Himalayas. Films include “The Horses of the Last Forbidden Kingdom” shot in Mustang, and “Daughters of the Curved Moon” shot in Jumla. “Pink Tiffany” is the third film produced by the Shakti Pictures team in Nepal. 
+
+![](/images/sophie-dia-pegru.jpg)
