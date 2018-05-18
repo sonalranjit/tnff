@@ -4,6 +4,8 @@ date: 2018-05-14T21:21:22-04:00
 draft: false
 ---
 
+![](/images/lachhamaniya.jpg)
+
 **Nepal | 2017 | Short | 16 mins | Aawadhi with English subtitles**
 
 **Director:**  Bikas Neupane, email: hamrobox@gmail.com
@@ -27,3 +29,5 @@ This short depicts the practice of arranged marriage in Nepal. It shows the stor
 **Director's Bio:**
 
 Bikas Neupane is a self-taught filmmaker based in Nepalgunj, Nepal. He began his artistic career as a theater actor  before working as an assistant director and actor in feature films. His work is based on the social issues faced by the marginal communities of western Nepal.
+
+![](/images/bikas-neupane.jpg)
