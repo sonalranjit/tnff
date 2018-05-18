@@ -4,7 +4,7 @@ date: 2018-05-14T21:29:20-04:00
 draft: false
 ---
 
-![](/images/gya.png)
+![](/images/gya.jpg)
 
 **Nepal | 2017 | Short | 5 mins | Nepali with English subtitles**
 
@@ -31,3 +31,5 @@ This film depicts the journey of a modern man from chaos to meditative state and
 **Director's Bio:**
 
 Pratish Shrestha is a film student from Nepal. He uses film to show the world in which he lives in. He enjoys exploring poetic and time narration in his films. This short "Gya" is his college project which has been selected at 6 international film festivals. This is a form of subjective and personal reflexive cinema.
+
+![](/images/pratish-shrestha.jpg)
